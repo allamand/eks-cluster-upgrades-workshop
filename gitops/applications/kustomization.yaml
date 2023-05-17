@@ -3,4 +3,4 @@ kind: Kustomization
 resources:
   - 01-sample-app.yaml
   - 01-hpa-sample-app.yaml
-  - 02-cronjob.yaml
+  - 02-cronjob.yaml  - 01-pdb-sample-app.yaml
